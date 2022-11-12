@@ -8,7 +8,7 @@ The website focuses on learning DOM manipulation .
 - querySelector
 - innerHTML
 
-## [Live Preview](https://rock-paper-scissor-games.netlify.app/)
+## [Live Preview](https://api-jokes-generator.netlify.app/)
 
 ### SnapShot of the Webpage
 
