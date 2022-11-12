@@ -12,4 +12,4 @@ The website focuses on learning DOM manipulation .
 
 ### SnapShot of the Webpage
 
-![StreetStyle](./Image/Project.png
+![StreetStyle](./Image/Project.png)
